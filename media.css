@@ -1,0 +1,1628 @@
+@media (max-width: 1330px) {
+  .blog-title-link {
+    font-size: 1em;
+  }
+  .contact-method-link {
+    font-size: 0.9em;
+    color: rgb(20, 20, 20);
+  }
+
+  .footer-link-services-links {
+    font-size: 0.8em;
+  }
+  .ask-question-method-link {
+    word-spacing: 0em;
+    font-size: 0.9em;
+  }
+  .our-blog-read-more-btn-para,
+  .our-blog-description-para {
+    font-size: 0.9em;
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 1.1em;
+  }
+
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 1300px) {
+  .staff-member-profile {
+    width: 60%;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 2.4em;
+  }
+  .feature-link-heading {
+    font-size: 1.8em;
+  }
+
+  .nav-links {
+    font-size: 0.9em;
+  }
+  .service-para,
+  .servicepara2 {
+    font-size: 0.95em;
+  }
+  .pl-des {
+    font-size: 1.1em;
+  }
+  .pl-heading-h1 {
+    font-size: 1.9em;
+  }
+  .get-in-touch-btn1 {
+    font-size: 0.95em;
+    padding: 3%;
+  }
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 1250px) {
+  .our-blog-read-more-btn-para {
+    font-size: 0.8em;
+  }
+  .staff-member-profile {
+    width: 62%;
+  }
+  .project-name {
+    font-size: 1.2em;
+  }
+  .project-category {
+    font-size: 0.9em;
+  }
+  .service-heading,
+  .about-us-heading-top,
+  .years-heading {
+    font-size: 1.8em;
+  }
+
+  .contact-method-name {
+    font-size: 1em;
+  }
+  .contact-method-link {
+    font-size: 0.8em;
+  }
+
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 1.1em;
+  }
+
+  .contact-us-sub-heading-para,
+  .blog-section-sub-heading,
+  .our-team-sub-heading-para,
+  .project-sub-heading-para,
+  .pl-para-p1 {
+    font-size: 0.9em;
+  }
+}
+@media (max-width: 1200px) {
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 2.3em;
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 1em;
+  }
+
+  .feature-link-heading {
+    font-size: 1.6em;
+  }
+
+  .feature-link-des {
+    font-size: 0.9em;
+  }
+
+  .service-link {
+    font-size: 1.3em;
+  }
+  .ourblog-post-month-year {
+    font-size: 0.8em;
+  }
+  .blog-date {
+    font-size: 2.4em;
+  }
+
+  .footer-links-services-logos::before {
+    width: 85%;
+  }
+  .footer-links-services-logos {
+    width: 9%;
+  }
+
+  .nav-items {
+    width: 90%;
+  }
+  .our-blog-read-more-btn-para,
+  .our-blog-description-para {
+    font-size: 0.8em;
+  }
+
+  .footer-about-us-des-para {
+    font-size: 0.9em;
+  }
+  .send-button {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 1150px) {
+  .our-blog-description-para,
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para,
+  .about-us-sub-para {
+    font-size: 0.9em;
+  }
+
+  .learn-more-btn-link {
+    font-size: 0.9em;
+  }
+
+  .service-heading-des-section {
+    font-size: 0.9em;
+  }
+  .service-heading,
+  .about-us-heading-top,
+  .years-heading {
+    font-size: 1.6em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.9em;
+  }
+
+  .contact-method-name,
+  .get-in-touch-link {
+    font-size: 0.9em;
+  }
+  .contact-method-link {
+    font-size: 0.75em;
+  }
+
+  .pl-des {
+    font-size: 1em;
+  }
+  .pl-heading-h1 {
+    font-size: 1.8em;
+  }
+
+  .footer-link-services-links {
+    font-size: 0.7em;
+  }
+
+  .ask-question-method-link {
+    font-size: 0.8em;
+    width: 91%;
+  }
+  .ask-que-method-logo-1,
+  .ask-que-method-logo-2,
+  .ask-que-method-logo-3 {
+    width: 9%;
+    padding: 0.5%;
+  }
+
+  .blog-date {
+    font-size: 2.2em;
+  }
+
+  .service-link {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 1060px) {
+  .our-blog-description-para,
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para,
+  .about-us-sub-para {
+    font-size: 0.9em;
+  }
+
+  .learn-more-btn-link {
+    font-size: 0.8em;
+  }
+
+  .service-heading-des-section {
+    font-size: 0.85em;
+  }
+  .service-heading,
+  .about-us-heading-top,
+  .years-heading {
+    font-size: 1.5em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.8em;
+  }
+
+  .contact-method-name,
+  .get-in-touch-link {
+    font-size: 0.8em;
+  }
+  .contact-method-link {
+    font-size: 0.7em;
+  }
+
+  .pl-des {
+    font-size: 0.9em;
+  }
+  .pl-heading-h1 {
+    font-size: 1.6em;
+  }
+
+  .footer-link-services-links {
+    font-size: 0.65em;
+  }
+
+  .ask-question-method-link {
+    font-size: 0.7em;
+    width: 91%;
+  }
+  .ask-que-method-logo-1,
+  .ask-que-method-logo-2,
+  .ask-que-method-logo-3 {
+    width: 9%;
+    padding: 0.5%;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 2em;
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 0.9em;
+  }
+
+  .feature-link-heading {
+    font-size: 1.4em;
+  }
+
+  .feature-link-des {
+    font-size: 0.8em;
+  }
+
+  .service-link {
+    font-size: 1.1em;
+  }
+  .ourblog-post-month-year {
+    font-size: 0.75em;
+  }
+  .blog-date {
+    font-size: 2.2em;
+  }
+
+  .our-blog-read-more-btn-para {
+    font-size: 0.7em;
+  }
+  .staff-member-profile {
+    width: 62%;
+  }
+  .project-name {
+    font-size: 1em;
+  }
+  .project-category {
+    font-size: 0.8em;
+  }
+  .service-heading,
+  .about-us-heading-top,
+  .years-heading {
+    font-size: 1.6em;
+  }
+
+  .contact-method-name {
+    font-size: 0.9em;
+  }
+  .contact-method-link {
+    font-size: 0.7em;
+  }
+  .blog-title-link {
+    font-size: 00.9em;
+  }
+
+  .footer-about-us-des-para {
+    font-size: 0.8em;
+  }
+
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 1em;
+  }
+
+  .contact-us-sub-heading-para,
+  .blog-section-sub-heading,
+  .our-team-sub-heading-para,
+  .project-sub-heading-para,
+  .pl-para-p1 {
+    font-size: 0.8em;
+  }
+
+  .ourblog-post-month-year {
+    font-size: 0.7em;
+  }
+
+  .blog-date {
+    font-size: 2em;
+  }
+
+  .logo-service-type1::before,
+  .logo-service-type2::before,
+  .logo-service-type3::before,
+  .logo-service-type4::before,
+  .logo-service-type5::before,
+  .logo-service-type6::before,
+  .logo-service-type7::before {
+    width: 50%;
+  }
+
+  .service-para,
+  .servicepara2 {
+    font-size: 0.8em;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 1em;
+  }
+  .our-blog-admin,
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.9em;
+  }
+
+  .web-header-h {
+    font-size: 1em;
+    letter-spacing: 0.2em;
+  }
+  .nav-links {
+    font-size: 0.9em;
+  }
+
+  .right-nav {
+    width: 80%;
+    margin: auto;
+  }
+  .nav-items {
+    width: 100%;
+  }
+  .send-button {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 1000px) {
+  .navigations {
+    width: 100%;
+    padding: 0% 5%;
+    background-color: transparent;
+    position: relative;
+    background-color: #000;
+  }
+  .navbar {
+    padding: 0%;
+  }
+  .nav-links,
+  .web-heading {
+    color: #fff;
+  }
+  .right-nav {
+    display: none;
+  }
+  .right-menu {
+    display: block;
+    width: 90%;
+    padding-left: 10%;
+  }
+  .menu-nav-items {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-left: 10%;
+    margin: 1% 0% 8% 12%;
+  }
+  .navs {
+    margin: 2.5%;
+    font-size: 1.1em;
+  }
+
+  .web-header-heading {
+    display: none;
+  }
+}
+
+@media (max-width: 950px) {
+  .web-header-main,
+  .web-header-main-2 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+  }
+  .web-header-main-pl {
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(54, 53, 53, 0.5);
+  }
+  .web-header-main-pl::before {
+    content: "";
+    background: url("bg2.webp"), no-repeat scroll;
+    background-position: 50%;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    z-index: -5;
+  }
+
+  .web-header-main-pl-2 {
+    position: relative;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(54, 53, 53, 0.5);
+  }
+  .web-header-main-pl-2::before {
+    content: "";
+    background: url("bg2.webp"), no-repeat scroll;
+    background-position: 50%;
+    background-size: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    z-index: -5;
+  }
+  .web-header-main-pr {
+    display: none;
+  }
+
+  .web-header-main-pl-para {
+    margin: 10% auto 0% auto;
+    width: 80%;
+    padding-top: 5%;
+  }
+  .pl-para-p1 {
+    width: 85%;
+    margin: 0% auto;
+    text-align: center;
+    font-weight: 100;
+    padding: 0%;
+  }
+  .web-header-main-pl-heading {
+    width: 100%;
+    margin: 1% auto;
+  }
+  .pl-heading-h1 {
+    width: 100%;
+    font-size: 2.5em;
+    text-align: center;
+    color: #fff;
+    opacity: 1;
+  }
+
+  .web-header-main-des {
+    margin: 5% auto;
+    width: 90%;
+  }
+
+  .pl-des {
+    width: 90%;
+    margin: auto;
+    font-size: 1.2em;
+    font-weight: 500;
+    color: rgba(255, 255, 255);
+    text-align: center;
+  }
+
+  .get-in-touch-btn1 {
+    margin: auto;
+    margin-bottom: 10%;
+  }
+  .get-in-touch-link {
+    font-size: 1em;
+  }
+
+  /* Project section */
+
+  .projects-collections {
+    grid-template-columns: auto auto;
+    grid-row-gap: 0%;
+  }
+
+  .project-name {
+    font-size: 1.5em;
+  }
+  .project-category {
+    font-size: 1em;
+  }
+
+  /* Staff section */
+
+  .our-staff-details {
+    grid-template-columns: auto auto;
+  }
+
+  .staff-member-profile {
+    width: 40%;
+  }
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 1.2em;
+  }
+
+  /* contact  */
+
+  .contact-methods-section {
+    grid-template-columns: auto auto;
+  }
+
+  .contact-method {
+    margin: 4% auto;
+  }
+  .contact-method-name {
+    font-size: 1.5em;
+  }
+  .contact-method-link {
+    font-size: 1em;
+  }
+
+  /* footer section */
+
+  .footer-detailes-con {
+    grid-template-columns: 100%;
+    padding: 0%;
+    width: 100%;
+  }
+
+  .footer-about-us-con {
+    width: 95%;
+    margin: 1% auto 4% auto;
+  }
+
+  .footer-about-us-heading-con,
+  .footer-about-us-heading-top,
+  .footer-about-us-des-con {
+    margin: 2% auto;
+  }
+
+  .footer-about-us-links-con {
+    width: 40%;
+    margin-right: auto;
+    padding: 1%;
+  }
+
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 1.2em;
+  }
+  .footer-about-us-des-para {
+    font-size: 1em;
+  }
+
+  .footer-links,
+  .footer-services {
+    width: 100%;
+    margin: 4% auto;
+    padding: 0% 1%;
+  }
+  .footer-links-services-heading {
+    width: 95%;
+    margin-right: auto;
+  }
+  .footer-links-services-lists {
+    width: 80%;
+    padding: 1% 0%;
+  }
+  .footer-links-service-list {
+    width: 80%;
+    margin: 2% auto;
+  }
+  .footer-link-services-links {
+    font-size: 1em;
+  }
+
+  .have-a-question-heading-con {
+    width: 100%;
+    margin-bottom: 1%;
+  }
+  .ask-question-method-lists {
+    width: 65%;
+    margin: 0%;
+  }
+  .ask-que-method-logo-1::before,
+  .ask-que-method-logo-2::before,
+  .ask-que-method-logo-3::before {
+    width: 60%;
+  }
+  .ask-question-method-link {
+    font-size: 1em;
+  }
+  .copyridht-section,
+  .copyright-para {
+    font-size: 1em;
+  }
+
+  /* font size */
+
+  .feature-link-heading {
+    font-size: 1.2em;
+  }
+
+  .feature-link-des {
+    font-size: 00.7em;
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 00.75em;
+  }
+
+  .our-blog-post-publish-year,
+  .our-blog-post-publish-month {
+    font-size: 00.9em;
+  }
+
+  .blog-date {
+    font-size: 1.8em;
+  }
+  .blog-title-link {
+    font-size: 00.75em;
+  }
+  .our-blog-description-para {
+    font-size: 0.7em;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.6em;
+  }
+  .our-blog-admin {
+    font-size: 0.8em;
+  }
+  .send-button,
+  .learn-more-btn-link {
+    font-size: 0.7em;
+  }
+}
+
+@media (max-width: 855px) {
+  .pl-h-continue {
+    font-size: 1.3em;
+  }
+  .pl-des {
+    font-size: 1em;
+  }
+  .get-in-touch-link {
+    font-size: 0.9em;
+  }
+  .service-link {
+    font-size: 1em;
+  }
+  .service-heading {
+    font-size: 1.5em;
+  }
+  .learn-more-btn {
+    width: 60%;
+  }
+
+  .project-des-top,
+  .about-our-team-des,
+  .blog-section-des-con,
+  .contact-us-des-con {
+    width: 95%;
+  }
+
+  .contact-method-name {
+    font-size: 1.25em;
+  }
+  .contact-method-link {
+    font-size: 0.9em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.9em;
+  }
+
+  /* Blog Section  */
+
+  .our-blog-posts {
+    width: 95%;
+    grid-template-columns: auto auto;
+  }
+  .our-blog-post {
+    margin: 4% auto;
+  }
+
+  .blog-title-link {
+    font-size: 1em;
+  }
+  .our-blog-description-para {
+    font-size: 1em;
+    padding: 1%;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 1em;
+    padding: 1%;
+  }
+  .blog-readmore-btn-link {
+    width: 90%;
+  }
+  .our-blog-admin {
+    font-size: 1em;
+  }
+  .about-us-sub-para {
+    font-size: 0.8em;
+  }
+  .about-us-heading-top {
+    font-size: 1.5em;
+  }
+
+  /* map section */
+
+  .map-contact-input-section {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 775px) {
+  .pl-h-continue {
+    font-size: 1.1em;
+  }
+  .pl-des {
+    font-size: 0.9em;
+  }
+  .get-in-touch-link {
+    font-size: 0.8em;
+  }
+  .service-link {
+    font-size: 0.9em;
+  }
+  .service-heading {
+    font-size: 1.4em;
+  }
+  .learn-more-btn {
+    width: 62%;
+  }
+
+  .project-des-top,
+  .about-our-team-des,
+  .blog-section-des-con,
+  .contact-us-des-con {
+    width: 98%;
+  }
+
+  .contact-method-name {
+    font-size: 1.1em;
+  }
+  .contact-method-link {
+    font-size: 0.8em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.8em;
+  }
+
+  .blog-title-link {
+    font-size: 0.9em;
+  }
+  .our-blog-description-para {
+    font-size: 0.9em;
+    padding: 1%;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.9em;
+    padding: 1%;
+  }
+  .blog-readmore-btn-link {
+    width: 95%;
+  }
+  .our-blog-admin {
+    font-size: 0.65em;
+  }
+
+  /* staff member profile */
+
+  .staff-member-profile {
+    width: 45%;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 1em;
+  }
+
+  .about-us-sub-para {
+    font-size: 0.7em;
+  }
+  .about-us-heading-top {
+    font-size: 1.3em;
+  }
+}
+
+@media (max-width: 700px) {
+  .pl-h-continue {
+    font-size: 1em;
+  }
+  .pl-des {
+    font-size: 0.8em;
+  }
+  .get-in-touch-link {
+    font-size: 0.7em;
+  }
+  .service-link {
+    font-size: 1.1em;
+  }
+
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    width: 95%;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 1.8em;
+  }
+  .about-us-heading-top {
+    font-size: 1.1em;
+  }
+
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.9em;
+  }
+}
+
+@media (max-width: 650px) {
+  .pl-h-continue {
+    font-size: 0.9em;
+  }
+
+  .year-of-experience {
+    width: 60%;
+    margin: auto;
+    transform: translateX(0%);
+  }
+  .learn-more-btn {
+    width: 70%;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.75em;
+  }
+
+  .project-name {
+    font-size: 1.2em;
+  }
+  .project-category {
+    font-size: 0.85em;
+  }
+}
+
+@media (max-width: 610px) {
+  .pl-h-continue {
+    font-size: 0.8em;
+  }
+  .service-link {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 575px) {
+  .pl-para-p1 {
+    font-size: 0.7em;
+  }
+  .pl-heading-h1 {
+    font-size: 2.1em;
+  }
+  .pl-des {
+    font-size: 0.8em;
+  }
+  .service-link {
+    font-size: 0.7em;
+  }
+  .service-heading {
+    font-size: 1.2em;
+  }
+  .service-para,
+  .servicepara2 {
+    font-size: 0.65em;
+  }
+  .learn-more-btn-link,
+  .about-us-sub-para {
+    font-size: 0.6em;
+  }
+  .learn-more-btn {
+    width: 80%;
+  }
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    font-size: 0.8em;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 1.6em;
+  }
+
+  .project-name {
+    font-size: 1em;
+  }
+  .project-category {
+    font-size: 0.75em;
+  }
+  .about-us-heading-top {
+    font-size: 0.9em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.65em;
+  }
+
+  .years-heading {
+    font-size: 1.4em;
+  }
+
+  .staff-member-profile {
+    width: 55%;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 0.85em;
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 00.6em;
+  }
+  .blog-title-link,
+  .our-blog-description-para {
+    font-size: 0.8em;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.75em;
+  }
+
+  .contact-method-name {
+    font-size: 0.95em;
+  }
+  .contact-method-link {
+    font-size: 0.7em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.7em;
+  }
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 1em;
+  }
+
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 500px) {
+  /* services -section */
+
+  .web-services-section {
+    grid-template-columns: 100%;
+  }
+  .services-lists-part {
+    margin: 2.5% auto;
+  }
+  .services-lists {
+    margin: 4% auto;
+  }
+  .pl-para-p1 {
+    font-size: 0.8em;
+  }
+  .pl-heading-h1 {
+    font-size: 2.5em;
+  }
+  .pl-des {
+    font-size: 1em;
+  }
+  .service-link {
+    font-size: 1.5em;
+  }
+  .service-heading {
+    font-size: 1.5em;
+  }
+  .service-para,
+  .servicepara2 {
+    font-size: 1em;
+  }
+  .learn-more-btn-link,
+  .about-us-sub-para {
+    font-size: 1em;
+  }
+  .learn-more-btn {
+    width: 80%;
+  }
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    font-size: 0.8em;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 1.6em;
+  }
+
+  .projects-collections {
+    grid-template-columns: auto;
+    grid-row-gap: 0%;
+  }
+
+  .project-name {
+    font-size: 1.5em;
+  }
+  .project-category {
+    font-size: 1em;
+  }
+
+  .about-us-section {
+    grid-template-columns: 100%;
+  }
+
+  .about-us-heading-top {
+    font-size: 1.6em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 1em;
+  }
+
+  .years-heading {
+    font-size: 2em;
+  }
+
+  .our-staff-details {
+    grid-template-columns: auto;
+  }
+
+  .staff-member-profile {
+    width: 33%;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 1.2em;
+  }
+
+  .happyclients-details {
+    grid-template-columns: 100% 100% 100% 100%;
+  }
+
+  .client-profile-img-con {
+    transform: translateY(-25%);
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  .our-blog-posts {
+    width: 90%;
+    margin: 5% auto;
+    padding: 1%;
+    display: grid;
+    grid-template-columns: auto;
+  }
+
+  .blog-title-link,
+  .our-blog-description-para {
+    font-size: 1.1em;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 1em;
+  }
+  .our-blog-admin {
+    font-size: 1.1em;
+  }
+  .blog-date {
+    font-size: 2em;
+  }
+  .ourblog-post-month-year {
+    font-size: 1em;
+  }
+
+  .contact-methods-section {
+    grid-template-columns: auto;
+  }
+
+  .contact-method-name {
+    font-size: 1.2em;
+  }
+  .contact-method-link {
+    font-size: 1em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.6em;
+  }
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 1em;
+  }
+
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.8em;
+  }
+}
+
+@media (max-width: 400px) {
+  /* services -section */
+
+  .pl-para-p1 {
+    font-size: 0.75em;
+  }
+  .pl-heading-h1 {
+    font-size: 2.3em;
+  }
+  .pl-des {
+    font-size: 0.85em;
+  }
+  .service-link {
+    font-size: 1.3em;
+  }
+  .service-heading {
+    font-size: 1.3em;
+  }
+  .service-para,
+  .servicepara2 {
+    font-size: 0.9em;
+  }
+  .learn-more-btn-link {
+    font-size: 0.9em;
+  }
+
+  .learn-more-btn {
+    width: 75%;
+  }
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    font-size: 0.8em;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 1.6em;
+  }
+
+  .project-name {
+    font-size: 1.3em;
+  }
+  .project-category {
+    font-size: 0.9em;
+  }
+
+  .about-us-sub-para {
+    font-size: 0.7em;
+  }
+
+  .about-us-heading-top {
+    font-size: 1.3em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.9em;
+  }
+
+  .years-heading {
+    font-size: 1.9em;
+  }
+
+  .staff-member-profile {
+    width: 40%;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 1em;
+  }
+
+  .client-profile-img-con {
+    transform: translateY(-25%);
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 0.9em;
+    text-align: center;
+  }
+
+  .blog-title-link,
+  .our-blog-description-para {
+    font-size: 0.9em;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.9em;
+  }
+  .our-blog-admin {
+    font-size: 1em;
+  }
+  .blog-date {
+    font-size: 1.95em;
+  }
+  .ourblog-post-month-year {
+    font-size: 0.9em;
+  }
+
+  .contact-method-name {
+    font-size: 1.1em;
+  }
+  .contact-method-link {
+    font-size: 0.9em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.5em;
+  }
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 0.9em;
+  }
+
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.7em;
+  }
+}
+
+@media (max-width: 385px) {
+  /* services -section */
+
+  .pl-para-p1 {
+    font-size: 0.7em;
+  }
+  .pl-heading-h1 {
+    font-size: 2.1em;
+  }
+  .pl-des {
+    font-size: 0.7em;
+  }
+  .service-link {
+    font-size: 1.2em;
+  }
+  .service-heading {
+    font-size: 1.2em;
+  }
+  .service-para,
+  .servicepara2 {
+    font-size: 0.8em;
+  }
+  .learn-more-btn-link {
+    font-size: 0.9em;
+  }
+
+  .learn-more-btn {
+    width: 75%;
+  }
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    font-size: 0.7em;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 1.5em;
+  }
+
+  .project-name {
+    font-size: 1.2em;
+  }
+  .project-category {
+    font-size: 0.85em;
+  }
+
+  .about-us-sub-para {
+    font-size: 0.6em;
+  }
+
+  .about-us-heading-top {
+    font-size: 1.2em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.8em;
+  }
+
+  .years-heading {
+    font-size: 1.8em;
+  }
+
+  .staff-member-profile {
+    width: 40%;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 0.9em;
+  }
+
+  .client-profile-img-con {
+    transform: translateY(-25%);
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 0.8em;
+    text-align: center;
+  }
+
+  .blog-title-link,
+  .our-blog-description-para {
+    font-size: 0.7em;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.7em;
+  }
+  .our-blog-admin {
+    font-size: 1em;
+  }
+  .blog-date {
+    font-size: 1.8em;
+  }
+  .ourblog-post-month-year {
+    font-size: 0.8em;
+  }
+
+  .contact-method-name {
+    font-size: 1em;
+  }
+  .contact-method-link {
+    font-size: 0.8em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.5em;
+  }
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 0.9em;
+  }
+
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.7em;
+  }
+}
+
+@media (max-width: 324px) {
+  /* services -section */
+
+  .pl-para-p1 {
+    font-size: 0.5em;
+  }
+  .pl-heading-h1 {
+    font-size: 1.8em;
+  }
+  .pl-des {
+    font-size: 0.5em;
+  }
+
+  .get-in-touch-link {
+    font-size: 0.5em;
+  }
+  .service-link {
+    font-size: 0.9em;
+  }
+  .service-heading {
+    font-size: 0.9em;
+  }
+  .service-para,
+  .servicepara2 {
+    font-size: 0.6em;
+  }
+  .learn-more-btn-link {
+    font-size: 0.7em;
+  }
+
+  .learn-more-btn {
+    width: 75%;
+    font-size: 0.7em;
+  }
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    font-size: 0.5em;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 1.2em;
+  }
+
+  .project-name {
+    font-size: 1em;
+  }
+  .project-category {
+    font-size: 0.7em;
+  }
+
+  .about-us-sub-para {
+    font-size: 0.5em;
+  }
+
+  .about-us-heading-top {
+    font-size: 1em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.6em;
+  }
+
+  .years-heading {
+    font-size: 1.5em;
+  }
+
+  .staff-member-profile {
+    width: 50%;
+  }
+
+  .staff-member-name,
+  .stafff-member-post {
+    font-size: 0.7em;
+  }
+
+  .client-profile-img-con {
+    transform: translateY(-25%);
+  }
+
+  .client-post,
+  .client-name,
+  .client-message {
+    font-size: 0.6em;
+    text-align: center;
+  }
+
+  .blog-title-link,
+  .our-blog-description-para {
+    font-size: 0.5em;
+  }
+  .our-blog-read-more-btn-para {
+    font-size: 0.5em;
+  }
+  .our-blog-admin {
+    font-size: 0.7em;
+  }
+  .blog-date {
+    font-size: 1.5em;
+  }
+  .ourblog-post-month-year {
+    font-size: 0.5em;
+  }
+
+  .contact-method-name {
+    font-size: 0.8em;
+  }
+  .contact-method-link {
+    font-size: 0.5em;
+  }
+  .footer-about-us-des-para,
+  .footer-link-services-links,
+  .ask-question-method-link {
+    font-size: 0.4em;
+  }
+  .footer-about-us-heading-top,
+  .footer-links-services-heading,
+  .have-a-que-heading-top {
+    font-size: 0.7em;
+  }
+
+  .copyridht-section,
+  .copyright-para {
+    font-size: 0.6em;
+  }
+}
+@media (max-width: 300px) {
+  .about-us-sub-para {
+    font-size: 0.4em;
+  }
+  .about-us-heading-top {
+    font-size: 0.8em;
+  }
+  .about-us-des-para,
+  .experience-para {
+    font-size: 0.5em;
+  }
+
+  .our-blog-admin {
+    font-size: 0.5em;
+  }
+
+  .contact-us-heading-top,
+  .blog-section-heading-top,
+  .happy-client-heading,
+  .our-team-heading,
+  .project-heading-top {
+    font-size: 0.9em;
+  }
+
+  .contact-us-des-para,
+  .blog-section-des-para,
+  .our-team-des-para,
+  .project-des-para {
+    font-size: 0.3em;
+  }
+}
